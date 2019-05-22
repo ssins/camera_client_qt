@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'c:\Users\admin\Documents\works\camera\login.ui'
+# Form implementation generated from reading ui file 'c:\Users\admin\Documents\works\camera\Statics\login.ui'
 #
 # Created by: PyQt5 UI code generator 5.11.3
 #

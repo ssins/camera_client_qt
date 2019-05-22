@@ -1,6 +1,6 @@
 from Windows.Communicate import Communicate
 from db_requests import DB_Requsets
-from Ui_login import *
+from Models.Ui_login import *
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *

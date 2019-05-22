@@ -1,4 +1,4 @@
-from Ui_camera import *
+from Models.Ui_camera import *
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
